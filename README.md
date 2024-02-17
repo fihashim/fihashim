@@ -1,4 +1,11 @@
-# 👩🏾‍💻 Fairuz Hashim
+<p align="center"> 
+<img src="https://private-user-images.githubusercontent.com/42868568/305660942-1372ee6f-d618-4e5a-b727-cd83e8dfa15e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgxOTE0MzgsIm5iZiI6MTcwODE5MTEzOCwicGF0aCI6Ii80Mjg2ODU2OC8zMDU2NjA5NDItMTM3MmVlNmYtZDYxOC00ZTVhLWI3MjctY2Q4M2U4ZGZhMTVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE3VDE3MzIxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1MmZhMTIzYzMxM2Q4ODA0M2NkM2Q4MmUzNTE3NGFiYjYyZDVkMWM5N2RiODlkMTc5ZjEzZDIwOTNlYjk4NTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fAbMf5kbj5t_Elg_XCAb3sefNMu4uOL-XnJcCbHejf0" width="100%" height="50%"/>
+</p>
+
+
+
+
+
 👋 Hi! I'm a formally trained quantum chemist embarking on an exciting journey into the world of data science. 
 
 My interest in this field sparked while tackling a challenging chemistry-specific problem, where I discovered the essential role of data cleaning, wrangling, analysis, and visualization in deriving data-driven conclusions. 
