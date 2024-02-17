@@ -1,44 +1,6 @@
-### Hi there 👋
+# 🙋‍♀ Fairuz Hashim 
+**`From molecules to models: A quantum chemist's journey in data science`**
 
-# About Me
+👋 Hi! I'm a formally trained quantum chemist embarking on an exciting journey into the world of data science. My interest in this field sparked while tackling a challenging chemistry-specific problem, where I discovered the essential role of data cleaning, wrangling, analysis, and visualization in deriving data-driven conclusions. My Github showcases a curated collection of my latest data-related projects, reflecting my curiosity and dedication to harnessing the potential of data science. Join me as I delve deeper into this fascinating domain and continue to expand my expertise one project at a time.
 
-<!--Hi there! 👋 I'm Fairuz (or you can call me Fi!), a passionate Data Scientist with a keen interest in Machine Learning and Artificial Intelligence. I thrive on turning complex challenges into elegant solutions and love exploring the ma
-
-## 🔧 Skills
-
-- Programming Languages: [List some languages you're proficient in]
-- Technologies: [List relevant tools, frameworks, or platforms]
-- Interests: [Highlight your areas of interest, e.g., data science, web development, etc.]
-
-## 🚀 Projects
-
-Check out some of my noteworthy projects:
-
-1. [Project Name 1](link-to-project-1): Brief description.
-2. [Project Name 2](link-to-project-2): Brief description.
-3. [Project Name 3](link-to-project-3): Brief description.
-
-## 🌱 Currently Learning
-
-I'm currently focused on expanding my knowledge in [Current Learning Focus], aiming to [Briefly mention your goals].
-
-## 💬 Let's Connect
-
-Feel free to reach out for collaborations or just to chat! You can find me on [LinkedIn](your-linkedin-profile) and [Twitter](your-twitter-profile).
-
-Happy coding! 🚀
-
-
-**fihashim/fihashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">💼 Languages and Tools</h3>
