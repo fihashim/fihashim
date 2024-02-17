@@ -5,7 +5,8 @@
 ## 👩🏾‍🔬 About Me 
 - I'm a formally trained quantum chemist embarking on an exciting journey into the world of data science. 
 - My interest in this field sparked while tackling a challenging chemistry-specific problem, where I discovered the essential role of data cleaning, wrangling, analysis, and visualization in deriving data-driven conclusions. 
-- My Github showcases a curated collection of my latest data-related projects, showing my passion for learning and applying data analysis and data science towards topics that I find most intriguing. 
+- My Github showcases a curated collection of my latest data-related projects, showing my passion for learning and applying data analysis and data science towards topics that I find most intriguing.
+- If you'd like to get in contact or collaborate on a project together, please don't hesitate to contact me via [Linkedin](https://www.linkedin.com/in/fairuzhashim/)
 
 ## 📚 Most Recent Portfolio Projects 
 1. [**Olist's Ecommerce Platform**](https://github.com/fihashim/olist-eda) <br>
