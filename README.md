@@ -13,10 +13,7 @@ Join me as I delve deeper into this fascinating domain and continue to expand my
 
 <h3 align="left">💼 Languages and Tools</h3>
 <p align="left"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="40" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
-
+  
 **`Programming Languages`** 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -39,5 +36,10 @@ Join me as I delve deeper into this fascinating domain and continue to expand my
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</p>
+
+**`Development & Collaboration Tools`**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="40" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
