@@ -7,7 +7,8 @@
 - My interest in this field sparked while tackling a challenging chemistry-specific problem, where I discovered the essential role of data cleaning, wrangling, analysis, and visualization in deriving data-driven conclusions. 
 - My Github showcases a curated collection of my latest data-related projects, showing my passion for learning and applying data analysis and data science towards topics that I find most intriguing. 
 
-#
+## 📚 Most Recent Portfolio Projects 
+
 ## 💼 Languages and Tools
 <p align="left"> 
   
