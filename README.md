@@ -8,6 +8,14 @@
 - My Github showcases a curated collection of my latest data-related projects, showing my passion for learning and applying data analysis and data science towards topics that I find most intriguing. 
 
 ## 📚 Most Recent Portfolio Projects 
+1. [**Olist's Ecommerce Platform**](https://github.com/fihashim/olist-eda) <br>
+The analysis uses Python to explore various aspects of Olist's operations, including revenue trends, order frequencies, product category sales volumes, seller activity, customer retention rates, and geolocation-based customer retention. It aims to identify trends, patterns, and opportunities for optimization across different facets of Olist's e-commerce platform. <br>
+
+2.  [**Olist's Customer Ratings**](https://github.com/fihashim/olist-customer-ratings) <br>
+Using Google BigQuery and Tableau, the analysis delves deeper into customer ratings data to discern regional variations across Brazilian states and extract actionable insights to determine potential business strategies.
+
+3.  [**Danny Ma's 8 Week Serious SQL Challenge**](https://github.com/fihashim/serious-sql) <br>
+This repository contains my solutions to Danny Ma's 8 week SQL challenge. The challenges consist of multiple realistic case studies across various domains like health, marketing, people analytics, financial markets, consumer goods, and digital marketing. It covers a wide range of SQL skills and techniques, from basic to advanced levels, including data filtering, aggregation, handling duplicates, table expressions, exploratory analysis, complex joins, window functions, and more, providing a robust foundation for data analysis.
 
 ## 💼 Languages and Tools
 <p align="left"> 
